@@ -1,3 +1,8 @@
-deroij.github.io
+Welcome to Noel De Roij's page!
 
-Welcome!
+# Below are some things I worked on!
+Career Quest by Gareth, Amy and Noel
+https://garethcheah.itch.io/career-quest
+
+A Hike Through Time (In development!)
+https://amuniversity.itch.io/a-hike-through-time
